@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "168639669537",
+    "project_id": "sarkar-c42a0",
+    "storage_bucket": "sarkar-c42a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168639669537:android:6dfddc20440ad31552ca60",
+        "android_client_info": {
+          "package_name": "com.example.sarkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168639669537-jed5k12bt7dj0ei4f82l27tdr9oo0mkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRIIhWj1jy7n9H4QLJecueqPIUxgsLRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168639669537-jed5k12bt7dj0ei4f82l27tdr9oo0mkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168639669537:android:f386bdef9777a72252ca60",
+        "android_client_info": {
+          "package_name": "com.example.sarkaradminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168639669537-jed5k12bt7dj0ei4f82l27tdr9oo0mkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRIIhWj1jy7n9H4QLJecueqPIUxgsLRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168639669537-jed5k12bt7dj0ei4f82l27tdr9oo0mkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
